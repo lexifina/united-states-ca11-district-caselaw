@@ -2,7 +2,7 @@
 court: "United States District Court for the Northern District of Georgia"
 docket: "Civ. A. No. C74-1060A"
 decided: "1974-06-17"
-citations: ["380 F. Supp. 4", "380 F. Supp. 8"]
+citations: ["380 F. Supp. 4"]
 reporter: "f-supp"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Robert (Robb) PITTS, Plaintiff, Goodwyn Cates, Intervenor, v. Jimmy C
 source_url: "https://static.case.law/f-supp/380/cases/0004-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3300171
-cites_cases: ["28 U.S.C. § 2281", "343 F.Supp. 704", "378 F.Supp. 640", "380 F.Supp. 4", "380 F.Supp. 8", "393 U.S. 544", "412 U.S. 755", "485 F.2d 1297", "93 S.Ct. 2342"]
+cites_cases: ["28 U.S.C. § 2281", "343 F.Supp. 704", "380 F.Supp. 8", "393 U.S. 544", "412 U.S. 755", "485 F.2d 1297", "93 S.Ct. 2342"]
 ---
 
 # Pitts v. Carter
