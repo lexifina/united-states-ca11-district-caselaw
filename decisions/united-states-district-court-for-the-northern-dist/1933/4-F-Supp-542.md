@@ -1,0 +1,31 @@
+---
+court: "United States District Court for the Northern District of Georgia"
+docket: "498"
+decided: "1933-07-21"
+citations: ["4 F. Supp. 542"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["POFFENBARGER v. ADERHOLD, Warden."]
+source_url: "https://static.case.law/f-supp/4/cases/0542-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4125588
+cites_cases: ["15 F.(2d) 377", "20 F.(2d) 42", "202 U. S. 344", "237 U. S. 625", "237 U. S. 632", "240 U. S. 391", "273 U. S. 1", "67 F.(2d) 250"]
+---
+
+# Poffenbarger v. Aderhold
+
+## Majority (UNDERWOOD, District Judge.)
+
+UNDERWOOD, District Judge.
+Petitioner was, prior to his conviction upon the indictment involved in this ease, in-dieted and convicted upon an indictment in the District Court of the United States for the Southern District of Iowa, Central Division. The indictment contained six counts and charged petitioner, in count 1, with having, on the 13th day of November, 1920, unlawfully, willfully, and feloniously stolen and carried away from an authorized depository for mail matter, to wit, United States railway mail ear, one certain mail bag, “which said mail bag is more particularly described as follows, to-wit: mail bag bearing label ‘New York, New York, from San Francisco, Cal.,’ closed by rotary lock P 4118' — 471”; and in counts 2, 3, 4, and 5 with likewise having stolen a mail bag, a separate bag being described in the eounts respectively, to wit, in count 2, a “mail bag bearing label ‘Pittsburg & Chicago train 22, from Omaha Ogden train. 6 East Division,’ closed by rotary lock X 5523— 759”; in count three, a “mail bag bearing label, ‘Washington D. C., from Salt Lake, Utah,’ closed by rotary lock B 8286 — 457”; in count 4, a “mail bag bearing label ‘New York & Chicago R. P. 0., from Salt Lake, Utah,’ closed by rotary lock It 8881 — 865”; in count 5, a “mail bag bearing label ‘Chicago, 111., from San Francisco, Cal.,’ closed by rotary lock R 4875' — 639.” In count 6 he is charged with having stolen “from an authorized depository for mail matter, to-wit: a United States railway mail ear, five certain other mail bags, a more particular description of which is to these grand jurors unknown.”
+Sentences were imposed on the above-mentioned indictment and petitioner was imprisoned in the United States penitentiary at Leavenworth, Elan. At the expiration of five years of petitioner’s term he was released under writ of habeas corpus because of error in the judgment imposing the sentences. The sentences imposed on the several eounts were held to run concurrently, and therefore the maximum that could be imposed on one count represented the maximum time he could be required to serve on all the eounts.
+Subsequently petitioner was tried upon a second indictment, the one upon which his present sentence was imposed and which he now attacks in this proceeding. This indictment is in four counts and involves the same mail robbery, and is claimed by petitioner to refer specifically to four of the mail bags described in count 6 of the first indictment.
+Petitioner maintains that his sentences upon the four eounts of the second indictment are invalid because they are for the same offenses charged in count 6 of the first indictment, and that he has already been convicted and sentenced on said sixth count and has served the sentence imposed.
+Assuming that the bags referred to in the second indictment are four of the same bags referred to in the sixth count of the first indictment, as alleged in the petition, nevertheless the offenses charged are different and require different evidence to establish them, since the offense charged in the sixth count of the first indictment was the theft of the mail bags, while'the offenses charged in the second indictment are the abstraction of mail matter from these bags.
+It will be seen, therefore, that the evidence necessary for conviction under the second indictment was different. Petitioner might have stolen the bags themselves and never opened them or taken out any of the mail matter. They might have been abandoned, returned, or captured before any mail matter was abstracted therefrom, and still the accused would be guilty of the offense of stealing the bags.
+On the other hand, the bags might have been stolen by some one else or not stolen at all, and still have had their contents rifled by petitioner in such manner as would constitute the offense charged in the second indictment.
+It follows that the offenses charged in the second indictment may have been a part of the same transaction upon which count 6 of the first indictment was based, yet, under the striet rules covering claims of double jeopardy set out in decisions of the United States Supreme Court, the necessity for additional proof compels the finding in this case that the offenses charged in the second indictment are not the same as that alleged in count 6 of the first indictment, and that the sentences attacked in this application for a writ of habeas corpus are not invalid for any of the reasons alleged. Morgan v. Devine, 237 U. S. 632, 35 S. Ct. 712, 59 L. Ed. 1153; Albrecht v. United States, 273 U. S. 1, 47 S. Ct. 250, 71 L. Ed. 505; Burton v. United States, 202 U. S. 344, 26 S. Ct. 688, 50 L. Ed. 1057, 6 Ann. Cas. 362; Badders v. United States, 240 U. S. 391, 36 S. Ct. 367, 60 L. Ed. 706; Ebeling v. Morgan, 237 U. S. 625, 35 S. Ct. 710, 59 L. Ed. 1151; Van Meter v. Snook (C. C. A. 5th) 15 F.(2d) 377.
+This precise question was decided contrary to petitioner’s claim by the Circuit Court of Appeals for the Eighth Circuit on his appeal to that court. Poffenbarger v. United States (C. C. A.) 20 F.(2d) 42.
+The law may be harsh, but this court has no power to change it or the construction placed upon it by the above decisions. Petitioner’s remedy, if he is entitled to any relief, is by application for executive clemency.
+Whereupon it appearing to the court that the sentences complained of, based' on the four counts of the second indictment, are valid and within the limits authorized by law, it is considered, ordered, and adjudged that said writ of habeas corpus be and the same is hereby discharged and petitioner remanded to the custody of respondent.
