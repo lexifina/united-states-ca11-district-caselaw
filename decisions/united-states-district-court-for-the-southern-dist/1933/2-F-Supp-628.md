@@ -1,0 +1,33 @@
+---
+court: "United States District Court for the Southern District of Florida"
+docket: "1015"
+decided: "1933-01-07"
+citations: ["2 F. Supp. 628"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re SILVER. STEARNS v. SILVER."]
+source_url: "https://static.case.law/f-supp/2/cases/0628-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4124848
+cites_cases: ["1 F.(2d) 660", "124 F. 182", "147 F. 684", "178 F. 385", "183 F. 913", "184 U. S. 1", "201 F. 169", "206 F. 877", "216 F. 887", "264 U. S. 426", "298 F. 926", "40 F.(2d) 282", "43 F.(2d) 57", "53 F.(2d) 27"]
+---
+
+# Stearns v. Silver
+
+## Majority (RITTER, District Judge.)
+
+RITTER, District Judge.
+This matter comes on for hearing on a petition for review of the findings and order of the referee requiring Ida Silver to turn over property in her possession whieh the referee finds is the property of the bankrupt.
+Ida Silver was not a pai-ty to the proceedings in the bankruptcy hearing, by intervention or by consent. The property which she has in her possession was not in the possession of the trustee in bankruptcy at any time. Ida Silver claims that it is her property, paid for by her money, and that she holds the same adversely to her husband, and consequently to the bankruptcy trustee. Her assertion of ownership is set out in her answer to the rule to show cause why the property should not be turned over pursuant to the order of the referee.
+The referee decided that ho had jurisdiction in the summary action to decide that the properly was the property of the estate, and to order Ida Silver to turn it over. She has denied his jurisdiction in the promises because of adverse possession and of ownership in her. Testimony was taken before the referee on the matter, and Ida Silver was compelled to testify. She, at that time, in her testimony asserted that her money paid for the property, and that the same was not tlie property of the bankrupt. The referee made a turnover order, arid, upon her failure to comply therewith, has cited her to this court for a contempt order, and she has filed a petition for review. Her testimony before the referee seems highly improbable, and is hard to believe, yet, for the purpose of jurisdiction in this case, it must be given consideration.
+A bankruptcy court has the power, in the first instance, to determine the existence of the conditions upon which its right to proceed depends, in reference to deciding title to bankruptcy property. Taubel-Scott-Kitzmiller Co. v. Fox, 264 U. S. 426, 44 S. Ct. 396, 68 L. Ed. 770; Priest v. Weaver (C. C. A.) 43 F.(2d) 57.
+If the bankruptcy court has possession of the property, it can determine in a sum.mary proceeding controversies involving substantial adverse claims; but if it has not the possession, it cannot in a summary proceeding adjudicate the validity of a substantial adverse claim. Tlio property, in order to give the right of summary action, must be in custodia legis, either actually or constructively. 5 Remington on Bankruptcy (3d Ed.) par. 2365, p. 448; In re Hoover-McClintock Motor Car Co. (D. C.) 1 F.(2d) 660, 661.
+“The jurisdiction of the bankruptcy court to determine in a summary proceeding adverse claims created before the filing' of the petition in bankruptcy to liens upon and titles to property claimed by the trustee as that of the bankrupt is conditioned and limited by its actual possession thereof.” In re Rathman (C. C. A.) 183 F. 913, 914; In re Rochford et al. (C. C. A.) 124 F. 182: Clay v. Waters (C. C. A.) 178 F. 385, 21 Ann. Cas. 897; Shea v. Lewis (C. C. A.) 206 F. 877; In re McMahon (C. C. A.) 147 F. 684; In re Lipman (D. C.) 201 F. 169.
+In the Cochran Case (D. C.) 40 F.(2d) 282, 284, the court says: “The possession may have been constructive and not manual, hut it was only because it was not capable of more tangible custody, and it was an adjudication not in possession of adverse claimant.”
+The various authorities abundantly support the proposition that a referee in bankruptcy has no jurisdiction to make a summary order determining' title to property claimed to belong to the bankrupt estate, and which is not in such possession of the bankruptcy court as to constitute custodia legis, but is held by an adverse claimant, unless such adverse claimant consents to jurisdiction. Page v. Arkansas Natural Gas Corp. (C. C. A.) 53 F.(2d) 27.
+It is further abundantly supported by authorities that even though the adverse possession is founded upon a preposterous claim, and the referee may have grave suspicion as to the bona fidos of the claim, and although it may be in fact fraudulent and incapable of being supported by evidence, yet a bankruptcy court is without jurisdiction to proceed in a summary action, and the trustee must proceed by a plenary action. Collier on Bankruptcy, 1926, 785; In re Goldstein (C. C. A.) 216 F. 887; In re Western Rope & Mfg. Co. (C. C. A.) 298 F. 926.
+Counsel for the trustee relies upon the case of Mueller v. Nugent, 184 U. S. 1, 22 S. Ct. 269, 275, 46 L. Ed. 405, for the right of the referee to proceed in a summary action in this ease. I do not think that case is an authority under the facts presented to me. In that case the adverse claimant did not set forth any facts of an adverse nature or any condition under which ho claimed to hold it adversely. The money was in the hands of the agent of the bankrupt, and was constructively in custodia legis. The court says, concerning the question involved in that ease: “The position now taken amounts to no more than to assert that a mere refusal to surrender constitutes an adverse holding in fact and therefore an adverse claim when the petition was filed, and to that we cannot give our assent.”
+It was admitted in that case that the money was the money of the bankrupt, and that the person who held the money hold the same admittedly as the property of the bankrupt. The trustee had constructive possession, therefore, of any property of the bankrupt in the hands of an agent of the bankrupt or a bailee, who, from the facts presented, had no title or any adverse interest.
+I am compelled, under the facts presented in this case, showing that the trustee never had any possession of the property, and that the same is held by Ida Silver under an adverse claim, however preposterous it may be, to hold that the trustee must proceed in a plenary action against her, and that the title cannot be tried in a summary proceeding as has been had.
+The order of the referee will be reversed, with instructions to the trustee to proceed as aforesaid.
