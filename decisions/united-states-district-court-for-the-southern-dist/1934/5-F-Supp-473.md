@@ -1,0 +1,34 @@
+---
+court: "United States District Court for the Southern District of Florida"
+docket: "4393"
+decided: "1934-01-11"
+citations: ["5 F. Supp. 473"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EAST TENNESSEE NAT. BANK OF KNOXVILLE v. DAY."]
+source_url: "https://static.case.law/f-supp/5/cases/0473-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4128054
+cites_cases: ["144 F. 818", "206 U. S. 28", "207 F. 495", "81 F. 439"]
+---
+
+# East Tennessee Nat. Bank v. Day
+
+## Majority (STRUM, District Judge.)
+
+STRUM, District Judge.
+East Tennessee National Bank filed original aud amended petitions in bankruptcy against A. B. Day, to which motions to dismiss were heretofore sustained. The bank now moves to further amend its petition.
+If the motion be granted, the petition as then amended will allege in substance as to the nature of petitioner’s claim that on April 2, 1932, the bank loaned Day $87.000, evidenced by a promissory note secured by the pledge of certain corporate stock, the property of Day. Amongst other things, the note authorized said bank to sell the pledged collateral, without notice, either at public or private sale, on the nonperformance of the debtor’s promise to pay, applying the net proceeds of the sale to the payment of said note; and, should the net proceeds of the sale of the said collateral be insufficient to discharge the indebtedness evidenced by the note, the debtor promised to pay said bank the amount of such deficiency forthwith after said sale; and, in ease of public or private sale as aforesaid, said bank was authorized to buy said collateral as any other person.
+The note is a Tennessee contract, having been executed and made payable in that state.
+The note remaining unpaid after' maturity, the bank notified Day, by registered mail, on June 4, 1932, that on June 14, 1932, at the hour of 10 a. m., at the cashier’s desk in the main banking room of the petitioner bank, it would offer for sale, and sell, the collateral securing said note, a copy of said notice being posted on June 4,1932, at the front door of the county court house in Knoxville, Tenn., where it remained so posted to and including the day of sale. It is further alleged that there was no statute or rule of law in the state of Tennessee regulating the enforcement of pledges of this character, but that the established custom and usage in Knoxville was to hold such sales in the manner above stated.
+The sale was held on the appointed day in the banking rooms of the creditor bank, which bank was the highest bidder and became the purchaser of the collateral for $25,000, that sum being credited on the note, leaving an alleged deficiency of $64,777.62, principal and interest on the note, for which sum the bank claims to be an unsecured creditor, and as such has filed its involuntary petition. The petition further alleges that the pledged securities were not listed on any stock exchange or broker’s board, and that the bid price of $25,000 was a fair and reasonable price for said securities at the time and place of sale.
+The respondent Day, questioning the 'validity and regularity of said sale, objects to 'the allowance of the amendment, asserting that the facts alleged do not constitute the bank an unsecured creditor, for the reason, amongst others, that to recognize the bank as an unsecured creditor for the balance of $64,777.62 would enable the bank to arbitrarily, and without affording Day an opportunity to be judicially heard upon the validity of the sale, reduce Day’s assets by the value of the collateral, and at the same time increase his liabilities by the amount of the deficiency, thus vitally affeeting his solvency. The acts of bankruptcy in the petition depend upon Day’s insolvency.
+A secured creditor has a provable claim, and may become a petitioning creditor, for all sums in excess of the value of the securities held. 11 USCA §§ 93, 95.
+The vital question here is whether or not the sale of the collateral is valid so> as to constitute the bank an unsecured creditor for the remainder and thus qualify it to become a petitioning creditor.
+No ease has been cited which presents this exact state of facts. The question may be decided, however, upon authority of Turner v. Metropolitan Trust Co. (C. C. A.) 207 F. 495. In that case a debtor corporation pledged certain of its own bonds to secure its note. There was a default, and the pledgee bank sold the bonds, purchasing them itself at a sum far less than the debt. The terms of the note and the conditions of the sale were in principle the same as here. The debt- or corporation later became bankrupt. It was held that the sale was valid and the pledgee who purchased the pledged bonds at its own sale could prove its claim for the full amount of the bonds so purchased, which greatly exceeded the balance due on the debt evidenced by the note — a much more severe situation than that here presented. There are cited in the above case numerous other cases which sustain, for various purposes, sales of collateral in the circumstances here involved. See, especially, Fidelity Ins., Trust & Safe-Deposit Co. v. Roanoke Iron Co. (C. C.) 81 F. 439, 449; In re Mertens (C. C. A.) 144 F. 818; Hiscock v. Varick Bank, 206 U. S. 28, 27 S. Ct. 681, 51 L. Ed. 945.
+There is no difference in principle between the Turner Case and this ease.' If 'such a sale is valid for the purpose of enforcing the collateral, it is valid for the purpose of establishing an unsecured balance on the debt.
+From the doctrine of the Turner Case, supra, and other eases therein eited, it follows by analogy that a pledgee who has lawfully and in good faith sold pledged securities in conformity with the contract of pledge has a provable claim for the excess of his debt over the proceeds of the sale. Therefore a creditor with such a claim may qualify as a petitioning creditor as to such excess.
+Of course, petitioner must allege and prove a sale conformable to the contract of pledge. The petition as now sought to be amended sufficiently alleges prima facie such a sale. Whether or not the sale was in fact conformable to the contract of pledge may 'be put in issue in this proceeding upon .the-question of the existence vel non of petitioner’s unsecured claim and of the respondent’s solvency, so that respondent may here have-his day in court upon those questions.
+When a sale in conformity with the-contract of pledge is shown, the burden of proving that such sale was unfair is upon him who asserts the unfairness. Hiscock v. Varick Bank, 206 U. S. 28, 27 S. Ct. 681, 51 L. Ed. 945. It follows that such question must, be herein raised by answer.
+Motion to amend is granted, and respondent ordered to answer.
