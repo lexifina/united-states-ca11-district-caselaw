@@ -1,0 +1,56 @@
+---
+court: "United States District Court for the Southern District of Alabama"
+docket: "2253"
+decided: "1933-07-07"
+citations: ["4 F. Supp. 74"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE YULU."]
+source_url: "https://static.case.law/f-supp/4/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4130031
+cites_cases: ["288 U. S. 102", "59 F.(2d) 744", "63 F.(2d) 638", "63 F.(2d) 639"]
+---
+
+# The Yulu
+
+## Majority (ERVIN, District Judge.)
+
+ERVIN, District Judge.
+The Yulu is a motorboat of Honduran registration and was found within the twelve-mile limit of the coast of Louisiana loaded with liquors, by one of the coast guard cruisers, and upon discovering the coast guard cruiser she headed out to sea and was pursued and overhauled outside the twelve-mile limit, and upon examination was found to be loaded with liquor. She was then arrested and brought to Mobile, where she was libeled by the government for violation of the custom’s act (19 USCA § 1585).
+A motion to dismiss was filed to the libel on various grounds; only two of them, however, need to be noted.
+The first proposition asserted is that the boat was found within the twelve-mile limit off the Louisiana coast; that she could only be prosecuted in the federal court for that district, which would be New Orleans. This proposition was raised before me in the case of The Miss C. B. (D. C.) 59 F.(2d) 744, where I discussed the proposition. It is true that this ease was reversed by the Circuit Court of Appeals but not on this question. 63 F.(2d) 639. It was also ruled by me in the ease of the Halcón, which was affirmed by the Circuit Court of Appeals in 63 F.(2d) 638. Whatever may be the ruling on the state of facts in other circuits, the ruling is settled in the Fifth Circuit by this decision.
+The next question presented is whether because of the most favored nation clauses in the treaty between Honduras and the United States, the provision of the treaty with Great Britain that a vessel suspected of smuggling liquors and found within one hour’s run of the coast is substituted for the twelve-mile provision of our statute.
+There is no treaty between Honduras and the United States similar to the one made with Great Britain in reference to searches and seizures of vessels suspected of transporting liquor.
+It is, however, contended that under the most favored nation clauses contained in the treaty with Honduras that the provisions on this subject found in the treaty with Great Britain are controlling, and hence that the rule laid down in Cook v. U. S., 288 U. S. 102, 53 S. Ct. 305, 77 L. Ed. 641, where it is held that the federal statute authorizing searches and seizures within twelve miles of the coast have been superseded by the provision of the treaty providing for a search and seizure within one hour’s run of the vessel.
+This brings us to an examination of the treaty. It professes to be a treaty of friendship, commerce, and consular rights.
+The first two articles are devoted to the personal rights of the nationals of the respective governments.
+The third and fourth articles refer to the property rights of the nationals of the respective governments.
+The fifth article refers to the religious rights of the nationals.
+The sixth refers to the right to draft in time of war the nationals of the other government.
+The seventh article is the one which it is claimed gives the right to have the provisions of the treaty with Great Britain as to searches and seizures substituted for the provisions of our statute. • So much of it as bears on the question reads as follows (the italics are mine):
+“Between the territories of the High Contracting Parties there shall be freedom, of commerce and navigation. The nationals of each of the High Contracting Parties equally with those of the most favored nation, shall have liberty freely to come with their vessels and cargoes to all places, ports and waters of every kind within the territorial limits of the other which are or may be open to foreign commerce and navigation. Nothing in this Treaty shall be construed to restrict the right óf either High Contracting Party to impose, on such terms as it may see fit, prohibitions or restrictions of a sanitary character designed to protect human, animal, or plant life, or regulations for the enforcement of police or'revenue laws.
+“Each of the High Contracting Parties binds itself unconditionally to impose no higher or other duties or conditions and no prohibition on the importation of any article, the growth, produce or manufacture, of the territories of the other, than are or shall he imposed on the importation of any like article, the growth, produce or manufacture of any other foreign country.
+“Each .of the High Contracting Parties also binds itself unconditionally to impose no higher or other charges or other restrictions or prohibitions on goods exported to the territories of the other High Contracting Party than are imposed on goods exported to any other foreign country. Any advantage of whatsoever kind which either High Contracting Party may extend to any article, the growth, produce, or manufacture of any other foreign country shall simultaneously and unconditionally, without request and without compensation, be extended to the like article the growth, produce, or manufacture of the other High Contracting Party.
+'“All articles which are or may be legally imported from foreign countries into ports of the United States or are or may be legally exported therefrom in vessels of the United States may likewise be imported into those ports or exported therefrom in Honduran vessels without being liable to any other or higher duties or charges whatsoever than if such articles were imported or exported in vessels of the United States; and, reciprocally, all articles which are or may be legally imported from foreign countries into the ports of Honduras or are or may be legally exported therefrom in Honduran vessels may likewise be imported into these ports or exported therefrom in vessels of the United States without being liable to any other or higher duties or charges whatsoever than if such articles were imported or exported in Honduran vessels.
+“In the same manner there shall be perfect reciprocal equality in relation to the flags of the two countries with regard to bounties, drawbacks, and other privileges -of this nature, of whatever denomination which may be allowed in the territories of each of the Contracting Parties, on goods imported or exported in national vessels so that such bounties, -drawbacks and other privileges shall also and in like njanner be allowed on goods imported or exported in vessels of the other country.
+“With respect to the amount and collection of duties on imports and exports of every kind, each of the two High Contracting Parties binds itself to give to the nationals, vessels and goods of the other the advantage of every favor, privilege or immunity which it shall have accorded to the nationals, vessels and goods of a third State, whether such favored State shall have been accorded such treatment gratuitously or in return for reciprocal compensatory treatment. Every such favor, privilege or immunity which shall hereafter be granted the nationals, vessels or goods of a third State shall simultaneously and unconditionally, without request and without compensation, be extended to the other High Contracting Party, for the benefit of itself, its nationals and vessels.”
+The title shows the purpose of the treaty.
+It is friendship, commerce, and consular rights that are to be provided for. So these subjects are to be kept in mind in construing the words of the treaty.
+The first six sections may be classified under the first purpose of friendship, for they cover the personal, religious, and property rights of the nationals of the contracting parties.
+The later sections refer to various rights of the nationals of respective parties giving them the same rights in both countries, and rights as to flags and tunnage duties and various rights that do not bear on the question.
+So far as rights of commerce and navigation, and duties, bounties, etc., and the regulations concerning them appear in the treaty, they concern goods shipped and intended to be introduced into the other country for use or sale therein, and ships transporting such goods.
+None of them refer to goods that are prohibited entry, or to ships transporting such goods.
+Many of the provisions give to the Honduran nationals or ships the same rights possessed by the United States citizens or ships, but none undertake to give any greater rights than those possessed by citizens or ships of the United States.
+The same thing applies to each of the references to rights given to the most favored nations.
+They have references to ships and commerce, “open to foreign commerce and navigation,” and “no higher or other duties or conditions and no prohibition of any article * * * than are or shall be imposed on the importation of any like article * * * of any other foreign country.”
+“No higher or. other charges or other restrictions or prohibitions on goods exported * * * than are imposed on goods exported to any other foreign country.”
+“Any advantage of whatsoever kind which either High Contracting Party may extend to any article * * * of any other foreign country shall simultaneously and unconditionally without request and without compensation, be extended to the like article the growth, produce, or manufacture of the other High Contracting Party.”
+“All articles which are or may be legally imported from foreign countries into ports of the U. S., or are or may be legally exported therefrom in vessels of the U. S. may likewise be imported into those ports * - * without being liable to any other or higher duties or charges whatsoever than if such articles were imported or exported in vessels of the U. S.”
+“In the same manner there shall be perfect reciprocal equality in relation to the flags of the two countries with regard to bounties, drawbacks, and other privileges of this nation “ “ * on goods imported or exported.”
+“With respect to the amount and collection of duties on imports and exports of every kind - * the advantage of every favor, .privilege or immunity which it shall accord to the nationals, vessels and goods of a third state, whether such favored state shall have been accorded such treatment gratuitously or in return for reciprocal compensatory treatment.”
+It is manifest that only favors as to goods that are to be legitimately imported or exported by some other government are contemplated or granted.
+The British treaty nowhere contemplates that the liquors are to be imported into the United States and pay any duties, but that such liquors are to be sealed up and remain on the vessels when they enter port, and go out when the vessel clears. Then it is agreed that seizures may be made of liquor-laden vessels in one hour’s run of the coast instead of the twelve miles specified in our statutes.
+This privilege does not come under any of the most favored nations clauses in the Honduran treaty.
+The motion will be overruled.
